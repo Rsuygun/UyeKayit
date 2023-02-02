@@ -1,0 +1,11 @@
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\bin\Debug\UyeTakip.exe.config
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\bin\Debug\UyeTakip.exe
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\bin\Debug\UyeTakip.pdb
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\obj\Debug\UyeTakip.csproj.AssemblyReference.cache
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\obj\Debug\UyeTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\obj\Debug\UyeTakip.Form1.resources
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\obj\Debug\UyeTakip.Properties.Resources.resources
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\obj\Debug\UyeTakip.csproj.GenerateResource.cache
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\obj\Debug\UyeTakip.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\obj\Debug\UyeTakip.exe
+C:\Users\Ramazan Serhat UYGUN\Desktop\UyeTakip\UyeTakip\obj\Debug\UyeTakip.pdb
